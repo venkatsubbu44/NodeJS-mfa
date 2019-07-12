@@ -17,6 +17,7 @@ Prerequisites
 4. npm install --save speakeasy (speakeasy is a nodejs library for MFA)
 5. npm install --save qrcode    (nodejs library for QR code generation)
 6. npm install express (nodejs web application framework)
+7. npm install nodemailer  (nodejs library for emails)
 
 Execution
 =========
